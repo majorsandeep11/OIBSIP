@@ -1,6 +1,6 @@
 # Common Network Security Threats
 
-Name: Shlok Pandey
+**Name:** Shlok Pandey
 Track: Security Analyst, Oasis Infobyte SIP
 Task 4: Research Report
 
