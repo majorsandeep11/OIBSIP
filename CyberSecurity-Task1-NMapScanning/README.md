@@ -42,7 +42,7 @@ I scanned only devices I own: my own phone and my own laptop (localhost). Scanni
 
 
 
-![Nmap version](screenshots/00_nmap_version.png)
+![Nmap version](Screenshots/00_nmap_version.png)
 
 
 
@@ -65,7 +65,7 @@ I scanned only devices I own: my own phone and my own laptop (localhost). Scanni
 
 
 
-![Basic scan](screenshots/01_basic_scan.png)
+![Basic scan](Screenshots/01_basic_scan.png)
 
 
 
@@ -76,7 +76,7 @@ I scanned only devices I own: my own phone and my own laptop (localhost). Scanni
 
 
 
-![Service version scan](screenshots/02_service_scan.png)
+![Service version scan](Screenshots/02_service_scan.png)
 
 
 
@@ -90,7 +90,7 @@ I scanned only devices I own: my own phone and my own laptop (localhost). Scanni
 
 
 
-![OS detection](screenshots/03_os_detection.png)
+![OS detection](Screenshots/03_os_detection.png)
 
 
 
@@ -106,7 +106,7 @@ I ran `sudo nmap -sV -O 100.75.93.186 -oN nmap_scan_results.txt` on 2026-11-11 a
 
 
 
-![Combined scan](screenshots/04_combined_scan.png)
+![Combined scan](Screenshots/04_combined_scan.png)
 
 
 
@@ -122,7 +122,7 @@ My phone had no open ports, so to get a port to analyse I started the SSH servic
 
 
 
-![Localhost service scan](screenshots/05_localhost_service_scan.png)
+![Localhost service scan](Screenshots/05_localhost_service_scan.png)
 
 
 
