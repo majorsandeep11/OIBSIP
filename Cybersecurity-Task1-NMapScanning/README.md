@@ -61,7 +61,7 @@ I scanned only devices I own: my own phone and my own laptop (localhost). Scanni
 ### 1. Basic scan (my phone)
 - Host is up.
 - All 1000 scanned ports were closed. No open ports were shown.
-- Scan finished in [fill from your screenshot] seconds.
+- Scan finished in 1.89 seconds.
 
 
 
@@ -72,7 +72,7 @@ I scanned only devices I own: my own phone and my own laptop (localhost). Scanni
 ### 2. Service version scan, -sV (my phone)
 - Host is up.
 - All 1000 ports were closed, so there were no services to identify.
-- Scan finished in [fill from your screenshot] seconds.
+- Scan finished in 1.36 seconds.
 
 
 
@@ -86,7 +86,7 @@ I scanned only devices I own: my own phone and my own laptop (localhost). Scanni
 - OS details: Linux 2.6.32 - 3.10, Linux 3.2 - 4.14, Linux 4.15 - 5.19.
 - Network distance: 2 hops.
 - Nmap warned that this result may be unreliable because it found no open port to test against.
-- Scan finished in [fill from your screenshot] seconds.
+- Scan finished in 1.45 seconds.
 
 
 
@@ -101,7 +101,7 @@ I ran `sudo nmap -sV -O 100.75.93.186 -oN nmap_scan_results.txt` on 2026-11-11 a
 - All 1000 scanned ports were in ignored states: 1000 closed tcp ports (reset).
 - Device type: general purpose, running Linux 2.6.X to 5.X.
 - Network distance: 2 hops.
-- Scan finished in 1.60 seconds.
+- Scan finished in 1.73 seconds.
 - Output was saved to `nmap_scan_results.txt`.
 
 
@@ -118,7 +118,7 @@ My phone had no open ports, so to get a port to analyse I started the SSH servic
 - 999 closed ports (conn-refused)
 - 1 open port: **22/tcp, ssh, OpenSSH 10.2p1 Ubuntu 2ubuntu3.8 (protocol 2.0)**
 - Service info: OS Linux
-- Scan finished in [fill from your screenshot] seconds.
+- Scan finished in 0.45 seconds.
 
 
 
