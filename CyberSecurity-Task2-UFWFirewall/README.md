@@ -43,7 +43,7 @@ The screenshot shows my rule commands and the output of `sudo ufw status verbose
 
 
 
-![UFW rules and status](screenshots/01_ufw_rules_and_status.png)
+![UFW rules and status](Screenshots/01_ufw_rules_and_status.png)
 
 
 
@@ -61,7 +61,7 @@ Result: The page did not load. Chrome showed "This site can't be reached" with t
 
 
 
-![Test result](screenshots/02_test_result.png)
+![Test result](Screenshots/02_test_result.png)
 
 
 
