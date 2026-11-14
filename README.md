@@ -11,7 +11,7 @@ This repository contains all my task submissions for the Oasis Infobyte internsh
 
 | # | Task | Type | Folder |
 |---|---|---|---|
-| 1 | Basic Network Scanning with Nmap | Practical | [Open Task 1](Cybersecurity-Task1-NMapScanning/) |
+| 1 | Basic Network Scanning with Nmap | Practical | [Open Task 1](CyberSecurity-Task1-NMapScanning/) |
 | 2 | Basic Firewall Configuration with UFW | Practical | [Open Task 2](CyberSecurity-Task2-UFWFirewall/) |
 | 4 | Research Report: Common Network Security Threats | Research report | [Open Task 4](CyberSecurity-Task4-NetworkThreatsReport/) |
 | 6 | Research Report: The Importance of Patch Management | Research report | [Open Task 6](CyberSecurity-Task6-PatchmanagementReport/) |
@@ -20,8 +20,8 @@ This repository contains all my task submissions for the Oasis Infobyte internsh
 
 ### Task 1: Basic Network Scanning with Nmap
 I installed Nmap on Ubuntu (WSL) and scanned my own phone and my own laptop. The scans covered basic port scanning, service version detection and OS detection. My laptop showed SSH (port 22) open, which I analysed for security risk.
-- [README](Cybersecurity-Task1-NMapScanning/README.md)
-- [Scan results file](Cybersecurity-Task1-NMapScanning/nmap_scan_results.txt)
+- [README](CyberSecurity-Task1-NMapScanning/README.md)
+- [Scan results file](CyberSecurity-Task1-NMapScanning/nmap_scan_results.txt)
 
 ### Task 2: Basic Firewall Configuration with UFW
 I installed and enabled the UFW firewall and wrote rules to allow SSH, deny HTTP and HTTPS, and block one IP address. I verified the rules with `ufw status verbose` and tested that traffic to port 80 timed out.
